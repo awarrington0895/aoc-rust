@@ -6,7 +6,9 @@ extern crate aoc_runner_derive;
 extern crate crypto;
 
 pub mod day1;
+pub mod day2;
+
 mod elf;
-mod day2;
+mod rock_paper_scissors;
 
 aoc_lib!{ year = 2022 }
